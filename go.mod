@@ -1,6 +1,6 @@
-module github.com/tommy-muehle/go-mnd
+module github.com/invidian/go-mnd/v2
 
-go 1.12
+go 1.15
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
